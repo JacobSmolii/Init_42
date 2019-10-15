@@ -1,5 +1,0 @@
-What file contains the RSA keys of systems that are authorized to connect via SSH?
-
-.ssh/authorized_keys
-i found it in ~/etc/ssh
-there are a couple files whith the rsa_keys

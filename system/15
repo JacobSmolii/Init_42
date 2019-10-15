@@ -1,5 +1,0 @@
-Find the command that kills the background command’s process
-
-ps -eaf | grep (something, file)
-then 
-kill some number of process
