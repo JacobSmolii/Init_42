@@ -1,0 +1,4 @@
+Find the provider of slash16.org
+
+1) nslookup slash16.org
+2) take address and run (whois "address")

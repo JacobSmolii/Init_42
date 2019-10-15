@@ -1,0 +1,5 @@
+What file contains the local DNS entries?
+
+host 10.51.1.253
+
+the answer is dhcp.42.us.org

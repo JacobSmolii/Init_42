@@ -1,0 +1,5 @@
+Find the command that add a new local user
+
+adduser username
+
+then you need to fill all of the lines with the info if user

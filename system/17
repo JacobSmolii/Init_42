@@ -1,0 +1,8 @@
+Find the command that allows you to connect via ssh on the VM.(In parallel with
+the graphic session)
+
+iptables -L
+
+Iptables is used to set up, maintain, and inspect the tables of IP packet filter rules in the Linux kernel. Several different tables may be defined. Each table contains a number of built-in chains and may also contain user-defined chains.
+-L, --list [chain]
+List all rules in the selected chain. If no chain is selected, all chains are listed. As every other iptables command, it applies to the specified table (filter is the default)
